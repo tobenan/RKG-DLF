@@ -4,7 +4,7 @@
 Please follow the instruction in docs to install program. Thanks for the contribution of mmaction.
 
 ## Data
-train\val\test.txt should be organized as 
+train\val\test.txt should be organized as  \\
 "
 \..\..\.jpg(path_sample1) 32(frame_number) label
 "
